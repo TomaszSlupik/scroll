@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin-top: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: grey;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.null {
+    font-size: 36px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 800px;
+}
+.boxScroll {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.fa-solid, .counter {
+    font-size: 30px;
+    color: black;
+}
+
+
+.itemOneScroll {
+    
+    text-align: center;
+    margin-left: 10px;
+}
